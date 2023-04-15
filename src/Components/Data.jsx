@@ -1,0 +1,83 @@
+export const Data = [
+    {
+        id: 1,
+        num: 1,
+        title:"White Patched Grey Tracksuit and Jogger",
+        price:10,
+        discount:10,
+        img:"./Static/1 (12).jpg",
+    },
+    {
+        id: 2,
+        num: 1,
+        title:"Loose Straight Pants Black Striped Cream",
+        price: 16,
+        discount:50,
+        delivery:"FREE DELIVERY",
+        img:"./Static/1 (11).jpg",
+    },
+    {
+        id: 3,
+        num: 1,
+        title:"Pink Patched Green Jean and White Shirt",
+        price: 17,
+        discount:31,
+        img:"./Static/1 (10).jpg",
+    },
+    {
+        id: 4,
+        num: 1,
+        title:"Classy All Season Cargo Joggers-Grey",
+        price: 13,
+        discount:20,
+        img:"./Static/1 (9).jpg",
+    },
+    {
+        id: 5,
+        num: 1,
+        title:"Djacks 3.1 Max Sound Bluetooth Home Theatre",
+        price: 22,
+        img:"./Static/1 (8).jpg",
+    },
+    {
+        id: 6,
+        num: 1,
+        title:"Anker Soundcore Flare 2 360 Sound IPX7...",
+        price: 11,
+        discount:30,
+        img:"./Static/1 (7).jpg",
+    },
+    {
+        id: 7,
+        num: 1,
+        title:"Maxi 32 Inches LED HD TV with 12 Months Warranty and Hanger for Positioning",
+        price: 200,
+        img:"./Static/1 (6).jpg",
+    },
+    {
+        id: 8,
+        num: 1,
+        title:"SAMNATE Messenger Bag Men Crossbody Bags Sport Pouch Bags",
+        price: 20,
+        img:"./Static/1 (5).jpg",
+    },
+    
+    {
+        id: 9,
+        num: 1,
+        title:"EILIFINTE B06 Casual Crossbody Shoulder Chest Bag-Grey ",
+        price: 18,
+        img:"./Static/1 (4).jpg",
+        delivery:"FREE DELIVERY",
+        discount:10,
+    },
+    {
+        id: 10,
+        num: 1,
+        title:"DELL Latitude 3180 Intel Celeron 128GB SSD 4GB RAM",
+        price: 415,
+        img:"./Static/1 (3).jpg",
+        discount:10,
+    }
+    
+]
